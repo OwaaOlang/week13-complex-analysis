@@ -1,0 +1,199 @@
+date,customer_name,region,product,quantity,price
+2025-09-01,Nansana Mart,Wakiso,Ghee,46,2000
+2025-09-06,Nansana Mart,Kampala,Fresh Milk,99,2500
+2025-09-17,Mama Naki,Kampala,Yoghurt,62,2500
+2025-09-17,Kawempe Shop,Kampala,Yoghurt,69,2000
+2025-09-20,Mama Naki,Mukono,Yoghurt,87,2000
+2025-09-02,Mukasa Dairy,Mpigi,Yoghurt,92,2000
+2025-09-16,Wakiso Milk Point,Mpigi,Fresh Milk,15,2500
+2025-09-20,Kampala Fresh,Kampala,Fresh Milk,40,15000
+2025-09-21,Kawempe Shop,Mukono,Yoghurt,81,15000
+2025-09-10,Mukasa Dairy,Mpigi,Fresh Milk,94,2000
+2025-09-28,Wakiso Milk Point,Wakiso,Yoghurt,62,2000
+2025-09-14,Nansana Mart,Mpigi,Yoghurt,58,15000
+2025-09-04,Nansana Mart,Mpigi,Yoghurt,90,2500
+2025-09-12,Kampala Fresh,Mpigi,Fresh Milk,16,2000
+2025-09-03,Mukasa Dairy,Kampala,Ghee,99,2500
+2025-09-26,Kampala Fresh,Kampala,Ghee,76,15000
+2025-09-11,Wakiso Milk Point,Kampala,Yoghurt,50,15000
+2025-09-25,Mukasa Dairy,Kampala,Yoghurt,81,2500
+2025-09-12,Mama Naki,Wakiso,Fresh Milk,89,2500
+2025-09-08,Mama Naki,Mukono,Ghee,52,2000
+2025-09-25,Nansana Mart,Wakiso,Yoghurt,76,15000
+2025-09-20,Wakiso Milk Point,Kampala,Ghee,89,15000
+2025-09-09,Mama Naki,Wakiso,Yoghurt,94,2500
+2025-09-30,Nansana Mart,Mukono,Fresh Milk,28,2000
+2025-09-19,Wakiso Milk Point,Mpigi,Fresh Milk,23,15000
+2025-09-21,Mama Naki,Kampala,Ghee,72,2000
+2025-09-13,Mukasa Dairy,Mpigi,Yoghurt,25,2500
+2025-09-10,Wakiso Milk Point,Mukono,Ghee,81,2000
+2025-09-29,Mama Naki,Wakiso,Fresh Milk,84,2000
+2025-09-22,Mama Naki,Mukono,Yoghurt,89,2500
+2025-09-16,Kawempe Shop,Mpigi,Yoghurt,39,2000
+2025-09-25,Kawempe Shop,Kampala,Yoghurt,60,2000
+2025-09-10,Wakiso Milk Point,Mpigi,Ghee,90,2500
+2025-09-02,Kampala Fresh,Mpigi,Ghee,12,2000
+2025-09-07,Nansana Mart,Wakiso,Fresh Milk,37,2500
+2025-09-11,Mama Naki,Kampala,Yoghurt,100,2500
+2025-09-06,Kampala Fresh,Mpigi,Ghee,95,2000
+2025-09-17,Kawempe Shop,Mukono,Fresh Milk,55,15000
+2025-09-02,Mukasa Dairy,Kampala,Yoghurt,14,2500
+2025-09-19,Mukasa Dairy,Mpigi,Ghee,86,2500
+2025-09-10,Mama Naki,Mpigi,Fresh Milk,46,2000
+2025-09-26,Kawempe Shop,Mpigi,Ghee,51,2000
+2025-09-14,Mama Naki,Wakiso,Yoghurt,80,2500
+2025-09-17,Mama Naki,Mpigi,Yoghurt,100,2500
+2025-09-08,Nansana Mart,Wakiso,Fresh Milk,70,15000
+2025-09-04,Kawempe Shop,Wakiso,Yoghurt,49,15000
+2025-09-27,Wakiso Milk Point,Wakiso,Fresh Milk,18,2000
+2025-09-09,Kampala Fresh,Wakiso,Ghee,24,15000
+2025-09-03,Kampala Fresh,Mpigi,Yoghurt,77,15000
+2025-09-15,Wakiso Milk Point,Mukono,Ghee,45,2000
+2025-09-15,Mama Naki,Mpigi,Yoghurt,85,2500
+2025-09-26,Nansana Mart,Kampala,Yoghurt,69,2000
+2025-09-10,Mukasa Dairy,Mpigi,Fresh Milk,12,2500
+2025-09-27,Nansana Mart,Kampala,Ghee,16,15000
+2025-09-20,Kawempe Shop,Mpigi,Yoghurt,79,15000
+2025-09-26,Wakiso Milk Point,Kampala,Yoghurt,78,15000
+2025-09-07,Nansana Mart,Mpigi,Ghee,24,2000
+2025-09-15,Mama Naki,Mukono,Ghee,15,15000
+2025-09-21,Kampala Fresh,Kampala,Fresh Milk,95,2500
+2025-09-15,Kawempe Shop,Wakiso,Yoghurt,52,2500
+2025-09-13,Mukasa Dairy,Mukono,Ghee,81,2000
+2025-09-26,Wakiso Milk Point,Mukono,Fresh Milk,47,2000
+2025-09-18,Wakiso Milk Point,Mpigi,Yoghurt,37,15000
+2025-09-28,Wakiso Milk Point,Wakiso,Yoghurt,15,15000
+2025-09-22,Kampala Fresh,Mukono,Yoghurt,88,15000
+2025-09-22,Mukasa Dairy,Wakiso,Ghee,95,2000
+2025-09-10,Kawempe Shop,Mpigi,Ghee,47,2000
+2025-09-22,Wakiso Milk Point,Kampala,Ghee,90,2500
+2025-09-17,Nansana Mart,Kampala,Yoghurt,44,2000
+2025-09-07,Nansana Mart,Mpigi,Fresh Milk,33,2000
+2025-09-05,Mama Naki,Mukono,Fresh Milk,69,15000
+2025-09-27,Wakiso Milk Point,Kampala,Ghee,48,15000
+2025-09-05,Kawempe Shop,Mpigi,Fresh Milk,25,2000
+2025-09-27,Wakiso Milk Point,Wakiso,Ghee,61,2000
+2025-09-14,Nansana Mart,Wakiso,Yoghurt,83,2500
+2025-09-25,Wakiso Milk Point,Mpigi,Fresh Milk,73,2000
+2025-09-10,Mukasa Dairy,Wakiso,Yoghurt,91,15000
+2025-09-15,Mukasa Dairy,Mukono,Yoghurt,69,15000
+2025-09-14,Kampala Fresh,Wakiso,Ghee,22,2500
+2025-09-02,Wakiso Milk Point,Mpigi,Yoghurt,75,2000
+2025-09-23,Kawempe Shop,Kampala,Yoghurt,15,2000
+2025-09-09,Mukasa Dairy,Wakiso,Yoghurt,16,2000
+2025-09-27,Mukasa Dairy,Mukono,Fresh Milk,58,2000
+2025-09-13,Kawempe Shop,Mukono,Fresh Milk,54,2000
+2025-09-12,Kampala Fresh,Kampala,Yoghurt,17,15000
+2025-09-21,Nansana Mart,Wakiso,Fresh Milk,9,2500
+2025-09-30,Mukasa Dairy,Wakiso,Ghee,65,2500
+2025-09-20,Mama Naki,Kampala,Fresh Milk,37,2000
+2025-09-27,Kampala Fresh,Mpigi,Fresh Milk,41,2000
+2025-09-10,Mama Naki,Kampala,Fresh Milk,58,15000
+2025-09-26,Kawempe Shop,Mpigi,Fresh Milk,19,2500
+2025-09-20,Kawempe Shop,Kampala,Ghee,70,15000
+2025-09-08,Wakiso Milk Point,Wakiso,Yoghurt,59,2000
+2025-09-20,Nansana Mart,Wakiso,Ghee,58,2000
+2025-09-22,Wakiso Milk Point,Kampala,Ghee,51,2000
+2025-09-17,Kawempe Shop,Kampala,Yoghurt,65,2000
+2025-09-21,Mukasa Dairy,Mukono,Yoghurt,100,2000
+2025-09-12,Mama Naki,Mukono,Fresh Milk,98,15000
+2025-09-21,Mama Naki,Mukono,Fresh Milk,10,2500
+2025-09-18,Nansana Mart,Wakiso,Ghee,64,15000
+2025-09-16,Wakiso Milk Point,Wakiso,Fresh Milk,13,15000
+2025-09-25,Mukasa Dairy,Kampala,Yoghurt,30,2000
+2025-09-26,Kampala Fresh,Kampala,Yoghurt,44,15000
+2025-09-13,Kawempe Shop,Mpigi,Yoghurt,9,15000
+2025-09-07,Nansana Mart,Mukono,Fresh Milk,88,2500
+2025-09-09,Mama Naki,Mukono,Yoghurt,56,15000
+2025-09-15,Mukasa Dairy,Mukono,Fresh Milk,68,15000
+2025-09-16,Nansana Mart,Mukono,Fresh Milk,98,2500
+2025-09-03,Mukasa Dairy,Wakiso,Ghee,42,2500
+2025-09-04,Mama Naki,Mukono,Ghee,42,2500
+2025-09-15,Kawempe Shop,Mpigi,Fresh Milk,93,2500
+2025-09-12,Mukasa Dairy,Kampala,Ghee,50,15000
+2025-09-14,Nansana Mart,Kampala,Fresh Milk,90,15000
+2025-09-13,Nansana Mart,Wakiso,Fresh Milk,23,15000
+2025-09-22,Mukasa Dairy,Kampala,Fresh Milk,13,2000
+2025-09-25,Wakiso Milk Point,Mukono,Yoghurt,54,15000
+2025-09-02,Kawempe Shop,Wakiso,Ghee,62,2500
+2025-09-12,Mukasa Dairy,Kampala,Ghee,22,15000
+2025-09-12,Mukasa Dairy,Mukono,Ghee,40,2000
+2025-09-04,Mama Naki,Wakiso,Yoghurt,71,2500
+2025-09-30,Kawempe Shop,Kampala,Yoghurt,38,15000
+2025-09-15,Kampala Fresh,Mukono,Ghee,67,2000
+2025-09-04,Kampala Fresh,Kampala,Yoghurt,27,15000
+2025-09-15,Mama Naki,Mukono,Ghee,49,15000
+2025-09-03,Kawempe Shop,Mukono,Yoghurt,25,15000
+2025-09-23,Wakiso Milk Point,Wakiso,Yoghurt,70,2000
+2025-09-04,Kampala Fresh,Wakiso,Fresh Milk,68,2000
+2025-09-12,Kawempe Shop,Mukono,Yoghurt,75,2000
+2025-09-20,Mama Naki,Kampala,Yoghurt,55,15000
+2025-09-24,Mukasa Dairy,Mpigi,Yoghurt,78,2000
+2025-09-05,Nansana Mart,Kampala,Yoghurt,64,15000
+2025-09-17,Nansana Mart,Wakiso,Ghee,86,15000
+2025-09-06,Kampala Fresh,Mpigi,Ghee,12,2000
+2025-09-17,Kampala Fresh,Mukono,Fresh Milk,25,2500
+2025-09-30,Wakiso Milk Point,Wakiso,Yoghurt,71,2500
+2025-09-28,Mama Naki,Mukono,Fresh Milk,86,15000
+2025-09-09,Kampala Fresh,Mukono,Ghee,73,2000
+2025-09-17,Wakiso Milk Point,Wakiso,Ghee,79,2000
+2025-09-06,Wakiso Milk Point,Mukono,Ghee,10,2000
+2025-09-03,Mama Naki,Mukono,Ghee,31,15000
+2025-09-14,Kawempe Shop,Kampala,Yoghurt,85,15000
+2025-09-10,Wakiso Milk Point,Mukono,Yoghurt,36,15000
+2025-09-13,Nansana Mart,Mpigi,Fresh Milk,93,2000
+2025-09-06,Mukasa Dairy,Mpigi,Yoghurt,64,2000
+2025-09-11,Kawempe Shop,Wakiso,Yoghurt,96,2500
+2025-09-24,Nansana Mart,Mpigi,Fresh Milk,52,15000
+2025-09-18,Mama Naki,Mukono,Fresh Milk,64,2000
+2025-09-09,Mukasa Dairy,Wakiso,Fresh Milk,17,2000
+2025-09-10,Mukasa Dairy,Mpigi,Fresh Milk,25,2500
+2025-09-30,Kawempe Shop,Mukono,Fresh Milk,25,2500
+2025-09-17,Mukasa Dairy,Mpigi,Yoghurt,68,2000
+2025-09-03,Mukasa Dairy,Mpigi,Fresh Milk,32,15000
+2025-09-12,Mama Naki,Kampala,Yoghurt,68,15000
+2025-09-29,Wakiso Milk Point,Mpigi,Yoghurt,73,2000
+2025-09-28,Mama Naki,Mpigi,Fresh Milk,38,15000
+2025-09-12,Mukasa Dairy,Mukono,Fresh Milk,56,2000
+2025-09-19,Kawempe Shop,Wakiso,Yoghurt,75,2500
+2025-09-03,Mukasa Dairy,Mpigi,Ghee,40,15000
+2025-09-22,Kawempe Shop,Kampala,Fresh Milk,17,2500
+2025-09-12,Nansana Mart,Mukono,Fresh Milk,30,15000
+2025-09-17,Mukasa Dairy,Kampala,Fresh Milk,9,2000
+2025-09-23,Nansana Mart,Mpigi,Ghee,63,2000
+2025-09-20,Kawempe Shop,Wakiso,Yoghurt,83,2500
+2025-09-06,Mukasa Dairy,Mukono,Ghee,48,15000
+2025-09-27,Kawempe Shop,Mpigi,Ghee,77,2500
+2025-09-16,Mama Naki,Mukono,Yoghurt,91,2000
+2025-09-14,Kawempe Shop,Mukono,Ghee,93,15000
+2025-09-01,Kawempe Shop,Mpigi,Yoghurt,88,15000
+2025-09-19,Kampala Fresh,Kampala,Ghee,66,2000
+2025-09-17,Wakiso Milk Point,Mpigi,Fresh Milk,92,2000
+2025-09-02,Kawempe Shop,Kampala,Fresh Milk,7,2500
+2025-09-11,Mukasa Dairy,Wakiso,Yoghurt,93,2000
+2025-09-14,Kawempe Shop,Mpigi,Ghee,98,2000
+2025-09-23,Kampala Fresh,Wakiso,Ghee,46,15000
+2025-09-16,Kawempe Shop,Mpigi,Yoghurt,27,2500
+2025-09-30,Kawempe Shop,Mukono,Ghee,50,15000
+2025-09-25,Wakiso Milk Point,Mukono,Ghee,66,2000
+2025-09-08,Nansana Mart,Mukono,Fresh Milk,43,2500
+2025-09-23,Kampala Fresh,Mpigi,Yoghurt,66,2500
+2025-09-18,Wakiso Milk Point,Mukono,Yoghurt,20,15000
+2025-09-22,Kawempe Shop,Mpigi,Yoghurt,49,2000
+2025-09-10,Mama Naki,Mukono,Ghee,15,2500
+2025-09-30,Mukasa Dairy,Mukono,Ghee,66,2000
+2025-09-07,Kawempe Shop,Mukono,Ghee,94,2500
+2025-09-05,Mama Naki,Wakiso,Fresh Milk,11,15000
+2025-09-29,Kawempe Shop,Wakiso,Ghee,34,2000
+2025-09-04,Mukasa Dairy,Mukono,Ghee,65,2000
+2025-09-22,Kampala Fresh,Kampala,Ghee,25,2500
+2025-09-21,Mukasa Dairy,Mpigi,Ghee,30,2500
+2025-09-11,Nansana Mart,Kampala,Fresh Milk,88,15000
+2025-09-08,Kawempe Shop,Kampala,Fresh Milk,58,2000
+2025-09-30,Mama Naki,Mpigi,Yoghurt,28,15000
+2025-09-28,Nansana Mart,Kampala,Fresh Milk,43,15000
+2025-09-20,Mama Naki,Mukono,Yoghurt,63,15000
+2025-09-18,Kawempe Shop,Mpigi,Fresh Milk,69,2500
+2025-09-09,Kampala Fresh,Kampala,Yoghurt,25,15000
+2025-09-15,Wakiso Milk Point,Mukono,Ghee,28,2000
+2025-09-24,Nansana Mart,Mukono,Ghee,91,2000
